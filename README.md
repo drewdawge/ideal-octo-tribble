@@ -19,7 +19,9 @@ UNCC Full Stack Module 03 Challenge. In this challenge we create a working rando
 
 ## How To Use
 
-Follow this link 
+Follow this link https://drewdawge.github.io/ideal-octo-tribble/
+
+the prompts will guide you through!
 
 
 ---
