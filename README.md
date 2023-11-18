@@ -1,2 +1,29 @@
 # ideal-octo-tribble
-UNCC Challenge 03
+# UNCC Module 03 Challenge
+
+![Project Image](/ideal-octo-tribble/assets/images/03-javascript-homework-demo.png)
+
+
+## Description
+
+UNCC Full Stack Module 03 Challenge. In this challenge we create a working random password generator. Easy to use with prompts guiding the user through a series of questions to help come up with a completely random password. 
+
+#### Technologies
+
+- JavaScript
+- HTML
+- CSS
+- VScode
+
+---
+
+## How To Use
+
+Follow this link 
+
+
+---
+
+## License
+
+N/A
