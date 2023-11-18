@@ -1,7 +1,7 @@
 # ideal-octo-tribble
 # UNCC Module 03 Challenge
 
-![Project Image](/ideal-octo-tribble/assets/images/03-javascript-homework-demo.png)
+![Project Image](./assets/images/03-javascript-homework-demo.png)
 
 
 ## Description
